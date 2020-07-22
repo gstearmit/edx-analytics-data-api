@@ -16,8 +16,10 @@ Please see ``LICENSE.txt`` for details.
 Getting Started
 ---------------
 
-python3 -m venv ./venv_edx-analytics
-source ./venv_edx-analytics/bin/activate
+0. setup environment Development:
+    python3 -m venv ./venv_edx-analytics
+    source ./venv_edx-analytics/bin/activate
+    pip install -U pip
 
 1. Install the requirements:
 
