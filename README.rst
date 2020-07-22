@@ -16,6 +16,9 @@ Please see ``LICENSE.txt`` for details.
 Getting Started
 ---------------
 
+python3 -m venv ./venv_edx-analytics
+source ./venv_edx-analytics/bin/activate
+
 1. Install the requirements:
 
    ::
