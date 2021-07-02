@@ -11,7 +11,7 @@
 # TODO: Many pinned dependencies should be unpinned and/or moved to this constraints file.
 
 # Use latest Django LTS version
-Django>=2.2,<2.3.0
+Django>=3.1.13,<2.3.0
 
 # django-storages version 1.9 drops support for boto storage backend.
 django-storages<1.9                 # BSD
