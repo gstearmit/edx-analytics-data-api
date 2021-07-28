@@ -97,7 +97,7 @@ tqdm==4.48.0              # via -r requirements/base.in
 typed-ast==1.4.1          # via astroid
 unicodecsv==0.14.1        # via djangorestframework-csv
 uritemplate==3.0.1        # via coreapi
-urllib3==1.25.9           # via -r requirements/base.in, botocore, elasticsearch, requests
+urllib3==1.26.5           # via -r requirements/base.in, botocore, elasticsearch, requests
 wcwidth==0.2.5            # via pytest
 wrapt==1.11.2             # via astroid
 zipp==1.2.0               # via importlib-metadata
