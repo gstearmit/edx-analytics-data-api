@@ -1,4 +1,4 @@
-FROM ubuntu:xenial as app
+FROM ubuntu:xenial-20210114 as app
 
 RUN apt update && \
   apt install -y git-core language-pack-en python3.5 python3-pip python3-dev libmysqlclient-dev libffi-dev libssl-dev build-essential gettext openjdk-8-jdk && \
