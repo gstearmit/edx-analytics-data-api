@@ -15,7 +15,7 @@ chardet==3.0.4            # via requests
 coreapi==2.3.3            # via django-rest-swagger, openapi-codec
 coreschema==0.0.4         # via coreapi
 coverage==5.2             # via -r requirements/test.in, pytest-cov
-cryptography==2.9.2       # via django-fernet-fields, pyjwt
+cryptography==3.2       # via django-fernet-fields, pyjwt
 ddt==1.4.1                # via -r requirements/test.in
 diff-cover==3.0.1         # via -r requirements/test.in
 django-cors-headers==3.4.0  # via -r requirements/base.in
